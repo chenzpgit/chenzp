@@ -1,0 +1,3 @@
+genecticy.Person
+num=99
+name=chenzp
